@@ -1,0 +1,18 @@
+{
+    "display": {
+        "title": "EternalSoap",
+        "description": "",
+        "icon": {
+            "item": "minecraft:player_head",
+            "nbt": "{SkullOwner:{Name: \"EternalSoap\", Properties: {textures: [{Value: \"ewogICJ0aW1lc3RhbXAiIDogMTcwNzQwNzUxMjEzMCwKICAicHJvZmlsZUlkIiA6ICI5MjA2NWE5ODlhMWM0MTJiOWQ1Yjk5NDkxYjc2ZTZmOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJFdGVybmFsU29hcCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kMGUwMTFlZDQyNWRjNjFjZWM3OTc4MDY3NjQ4MTg4NTdiMzU3NTUwNTZlOGVhOTQyMWI1ZGNhZmY1ZGQ0ZjgxIgogICAgfQogIH0KfQ==\"}]}}}"
+        },
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "parent": "global:root",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

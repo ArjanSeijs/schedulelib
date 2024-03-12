@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "schedulelib",
+        "description": "Library for using macros with schedules",
+        "icon": {
+            "item": "minecraft:clock"
+        },
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "parent": "global:eternalsoap",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
